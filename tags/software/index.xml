@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>software on İsmail Arık</title>
+    <link>http://ismailarik.com/tags/software/</link>
+    <description>Recent content in software on İsmail Arık</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 20 Dec 2020 21:37:57 +0300</lastBuildDate><atom:link href="http://ismailarik.com/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>http://ismailarik.com/post/helloworld/</link>
+      <pubDate>Sun, 20 Dec 2020 21:37:57 +0300</pubDate>
+      
+      <guid>http://ismailarik.com/post/helloworld/</guid>
+      <description>Hello there, this is Ozan and this is next one of my numerous blogging trials. Hopefully, this time I keep continue to blogging.
+Content of this blog will be mostly about programming but still I do not guarantee that I won&amp;rsquo;t write on different topics.
+Until I see you all soon, keep digging!</description>
+    </item>
+    
+    <item>
+      <title>Hello World2</title>
+      <link>http://ismailarik.com/post/helloworld2/</link>
+      <pubDate>Sun, 20 Dec 2020 21:37:57 +0300</pubDate>
+      
+      <guid>http://ismailarik.com/post/helloworld2/</guid>
+      <description>Hello there, this is Ozan and this is next one of my numerous blogging trials. Hopefully, this time I keep continue to blogging.
+Content of this blog will be mostly about programming but still I do not guarantee that I won&amp;rsquo;t write on different topics.
+Until I see you all soon, keep digging!
+1500&amp;rsquo;lerden beri kullanılan standart Lorem Ipsum pasajı &amp;ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+  </channel>
+</rss>
